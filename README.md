@@ -1,3 +1,3 @@
 # Run
 
-`cargo run [hello | status | ?]`
+> `cargo run [hello | status | ?]`
