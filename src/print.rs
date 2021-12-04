@@ -1,6 +1,8 @@
 pub fn run() {
   // Print to console
+  println!("===========================");
   println!("Hello from the print.rs file");
+  println!("---------------------------");
 
   // Basic Formatting
   println!("{} is from {}", "Brad", "Mass");
