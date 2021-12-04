@@ -1,3 +1,5 @@
-# Run
+# Rust Sandbox
+
+## Run
 
 > `cargo run [hello | status | ?]`
